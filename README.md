@@ -1,6 +1,6 @@
 ### Constructing Cointegrated Cryptocurrency Portfolios for Statistical Arbitrage
 #### Keywords: 
-Business Analytics, Cryptocurrency, Arbitrage, Prediction Models, Binance API, Engle-Granger Two-Step Method, Co-integrated Portfolios.
+Business Analytics Time-Series Data Analysis, Cryptocurrency, Arbitrage, Prediction Models, Binance API, Engle-Granger Two-Step Method, Co-integrated Portfolios.
 #### Implemented using: 
 Python, Jupyter Notebook
 #### Explanation:
